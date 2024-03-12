@@ -1,0 +1,1 @@
+Java is primarily a compiled language and is not typically used for scripting tasks. However, Java applications can be controlled and scripted through Java's scripting API or by embedding scripting languages like JavaScript using frameworks like Rhino or Nashorn.
